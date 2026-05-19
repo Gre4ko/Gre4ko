@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Gre4ko/Gre4ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-bipo-baab-bip, kap
+# bipo-baab-bip, kap
